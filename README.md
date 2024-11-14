@@ -77,4 +77,5 @@ Contribuições, issues e pedidos de funcionalidades são bem-vindos! Sinta-se �
 
 <em>Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.</em>
 </div>
+
 ---
