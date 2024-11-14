@@ -13,33 +13,38 @@ Este repositório contém o código do **Ignite Feed**, parte do curso de React 
 ## 📋 Índice
 
 - [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
+- [Instalação](#instalacao)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Contribuição](#contribuicao)
+- [Licença](#licenca)
 
+<div id="funcionalidades">
 ## ✨ Funcionalidades
 
 - **React** para construção da interface de usuário
 - **Vite** para um ambiente de desenvolvimento rápido
 - **ESLint** para qualidade e consistência do código
 - **Hot Module Replacement (HMR)** para atualizações instantâneas durante o desenvolvimento
+</div>
 
+<div id="instalacao">
 ## 🛠 Instalação
 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/vbuarque/r-ignite-feed-rocketseat.git
+git clone https://github.com/vbuarque/rs-ignite-feed.git
 ```
 
 Navegue até o diretório do projeto e instale as dependências:
 
 ```bash
-cd r-ignite-feed-rocketseat
+cd rs-ignite-feed
 npm install
 ```
+</div>
 
+<div id="uso">
 ## ▶️ Uso
 
 Inicie o servidor de desenvolvimento:
@@ -59,10 +64,12 @@ Sirva a build de produção:
 ```bash
 npm run serve
 ```
+</div>
 
+<div id="contribuicao">
 ## 🤝 Contribuição
 
-Contribuições, issues e pedidos de funcionalidades são bem-vindos! Sinta-se à vontade para verificar a [página de issues](https://github.com/vbuarque/r-ignite-feed-rocketseat/issues).
+Contribuições, issues e pedidos de funcionalidades são bem-vindos! Sinta-se à vontade para verificar a [página de issues](https://github.com/vbuarque/rs-ignite-feed/issues).
 
 1. Faça um fork do projeto
 2. Crie sua branch de feature (`git checkout -b feature/NovaFeature`)
@@ -70,8 +77,9 @@ Contribuições, issues e pedidos de funcionalidades são bem-vindos! Sinta-se �
 4. Faça o push para a branch (`git push origin feature/NovaFeature`)
 5. Abra um pull request
 
+<div id="licenca">
 ## 📝 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
+</div>
 ---
