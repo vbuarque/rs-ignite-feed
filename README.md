@@ -19,7 +19,7 @@ Este repositório contém o código do **Ignite Feed**, parte do curso de React 
 - [Licença](#licenca)
 
 <div id="funcionalidades">
-## ✨ Funcionalidades
+<h2>✨ Funcionalidades</h2>
 
 - **React** para construção da interface de usuário
 - **Vite** para um ambiente de desenvolvimento rápido
@@ -28,46 +28,27 @@ Este repositório contém o código do **Ignite Feed**, parte do curso de React 
 </div>
 
 <div id="instalacao">
-## 🛠 Instalação
+  <h2>🛠 Instalação</h2>
 
-Clone o repositório:
-
-```bash
-git clone https://github.com/vbuarque/rs-ignite-feed.git
-```
-
-Navegue até o diretório do projeto e instale as dependências:
-
-```bash
-cd rs-ignite-feed
-npm install
-```
+  Clone o repositório: <pre><code>git clone https://github.com/vbuarque/rs-ignite-feed.git</code></pre>
+  Acesse a pasta do projeto: <pre><code>cd rs-ignite-feed</code></pre>
+  Instale as dependências: <pre><code>npm install</code></pre>
+  
 </div>
 
 <div id="uso">
-## ▶️ Uso
+<h2>▶️ Uso</h2>
 
-Inicie o servidor de desenvolvimento:
+  Inicie o servidor de desenvolvimento: <pre><code>npm run dev</code></pre>
 
-```bash
-npm run dev
-```
+  Construa o projeto para produção: <pre><code>npm run build</code></pre>
 
-Construa o projeto para produção:
+  Sirva a build de produção: <pre><code>npm run serve</code></pre>
 
-```bash
-npm run build
-```
-
-Sirva a build de produção:
-
-```bash
-npm run serve
-```
 </div>
 
 <div id="contribuicao">
-## 🤝 Contribuição
+<h2>🤝 Contribuição</h2>
 
 Contribuições, issues e pedidos de funcionalidades são bem-vindos! Sinta-se à vontade para verificar a [página de issues](https://github.com/vbuarque/rs-ignite-feed/issues).
 
@@ -78,8 +59,8 @@ Contribuições, issues e pedidos de funcionalidades são bem-vindos! Sinta-se �
 5. Abra um pull request
 
 <div id="licenca">
-## 📝 Licença
+<h2>📝 Licença</h2>
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+<em>Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.</em>
 </div>
 ---
