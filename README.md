@@ -30,20 +30,34 @@ Este repositório contém o código do **Ignite Feed**, parte do curso de React 
 <div id="instalacao">
   <h2>🛠 Instalação</h2>
 
-  Clone o repositório: <pre><code>git clone https://github.com/vbuarque/rs-ignite-feed.git</code></pre>
-  Acesse a pasta do projeto: <pre><code>cd rs-ignite-feed</code></pre>
-  Instale as dependências: <pre><code>npm install</code></pre>
-  
+  <strong>Clone o repositório:</strong>
+
+  <pre><code>git clone https://github.com/vbuarque/rs-ignite-feed.git</code></pre>
+
+  <strong>Acesse a pasta do projeto:</strong>
+
+  <pre><code>cd rs-ignite-feed</code></pre>
+
+  <strong>Instale as dependências:</strong>
+
+  <pre><code>npm install</code></pre>
+
 </div>
 
 <div id="uso">
 <h2>▶️ Uso</h2>
 
-  Inicie o servidor de desenvolvimento: <pre><code>npm run dev</code></pre>
+  <strong>Inicie o servidor de desenvolvimento:</strong>
 
-  Construa o projeto para produção: <pre><code>npm run build</code></pre>
+  <pre><code>npm run dev</code></pre>
 
-  Sirva a build de produção: <pre><code>npm run serve</code></pre>
+  <strong>Construa o projeto para produção:</strong>
+
+  <pre><code>npm run build</code></pre>
+
+  <strong>Sirva a build de produção:</strong>
+
+  <pre><code>npm run serve</code></pre>
 
 </div>
 
